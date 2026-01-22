@@ -1,5 +1,5 @@
 
-<!-- TITULOS -->
+<!-- MARKDOWN -->
 
 # TITULO 1
 ## TITULO 2
@@ -8,7 +8,19 @@
 ##### TITULO 5
 ###### TITULO 6
 
-*italico* ou _italico_
+*italico* ou __italico__
+
+**negrito** ou __negrito__
+
+__negrito e italico__
+
+- lista 1
+- lista 2
+ - sublista
+
+1. lista 1
+2. lista 2
+ 1. sublista
 
 
 
