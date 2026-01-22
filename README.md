@@ -8,6 +8,7 @@
 ##### TITULO 5
 ###### TITULO 6
 
+*italico* ou _italico_
 
 
 
