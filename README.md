@@ -28,6 +28,10 @@ Imagen de teste
 ![imagem_teste](https://uploads-blog.fujifilmbrasil.com.br/2024/07/LU73X4xz-foto-de-por-do-sol-1678156462-1024x683.webp)
 
 
+trechos de codigos
+
+`color:black;`
+
 
 <!--
 **aliso1souzw-star/aliso1souzw-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
