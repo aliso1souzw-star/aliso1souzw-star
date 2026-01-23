@@ -33,8 +33,7 @@ trechos de codigos
 `color:black;`  <!-- codigos de uma linha -->
 
 ```background-color:blue;
-   font-weight:bold;
-``` <!-- codigos de quebras de linha -->
+   font-weight:bold;``` <!-- codigos de quebras de linha -->
 
 
 
