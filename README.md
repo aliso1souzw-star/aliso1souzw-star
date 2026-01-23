@@ -30,7 +30,10 @@ Imagen de teste
 
 trechos de codigos
 
-`color:black;`
+`color:black;`  <!-- codigos de uma linha -->
+
+```background-color:blue;``` <!-- codigos de quebras de linha -->
+
 
 
 <!--
