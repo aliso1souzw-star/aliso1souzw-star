@@ -38,11 +38,16 @@ trechos de codigos
 
 ----------------------------
 
+<!-- tabelas -->
+
 | Cabeçalho 1 | Cabeçalho 2 |
 | ----------- | ----------- |
 | texto 1     | texto 2     |
 | texto 3     | texto 4     |
 
+
+[x] tarefa 1 <br>
+[ ] tarefa 2
 
 
 <!--
