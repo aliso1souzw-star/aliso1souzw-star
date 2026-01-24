@@ -34,6 +34,10 @@ trechos de codigos
 
 ```background-color:blue; font-weight:bold;``` <!-- codigos de quebras de linha -->
 
+> Textos de citações
+
+| Cabeçalho 1 | Cabeçalho 2 |
+| ----------- | ----------- |
 
 
 <!--
