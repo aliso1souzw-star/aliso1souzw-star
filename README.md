@@ -36,6 +36,8 @@ trechos de codigos
 
 > Textos de citações
 
+----------------------------
+
 | Cabeçalho 1 | Cabeçalho 2 |
 | ----------- | ----------- |
 
