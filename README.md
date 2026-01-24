@@ -40,6 +40,9 @@ trechos de codigos
 
 | Cabeçalho 1 | Cabeçalho 2 |
 | ----------- | ----------- |
+| texto 1     | texto 2     |
+| texto 3     | texto 4     |
+
 
 
 <!--
