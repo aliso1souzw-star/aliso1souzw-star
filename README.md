@@ -11,3 +11,4 @@
 <p>📕 Estudante na área de tecnologia</p>
 <p>🌌 Sou um observador do Universo que está em eterno aprendizado</p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
